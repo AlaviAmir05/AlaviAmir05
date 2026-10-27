@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring & Creative web developer passionate about building modern, responsive, high-performance user friendly web applications.<br>I enjoy combining development and design to create intuitive digital experiences, and I'm always open to learning new technologies.<br>I am currently focused on improving my development skills & knowledge towards building practical projects.<br>Also looking for Internship opportunities to learn, grow and contribute to real projects.
+Aspiring & Creative web developer passionate about building modern, responsive & user friendly web applications.<br>I enjoy combining development and design to create intuitive digital experiences, and I'm always open to learning new technologies.<br>I am currently focused on improving my development skills & knowledge towards building practical projects.<br>Also looking for Internship opportunities to learn, grow and contribute to real projects.
 
 
 ## 💻 Tech Stack:
